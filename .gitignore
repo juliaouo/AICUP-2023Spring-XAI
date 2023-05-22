@@ -1,0 +1,6 @@
+*.jsonl
+
+__pycache__/
+data/
+checkpoints/
+logs/
