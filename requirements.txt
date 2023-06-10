@@ -1,13 +1,109 @@
---find-links https://download.pytorch.org/whl/torch_stable.html
-
+absl-py==1.4.0
+aiohttp @ file:///croot/aiohttp_1670009560265/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+async-timeout @ file:///opt/conda/conda-bld/async-timeout_1664876359750/work
+attrs @ file:///croot/attrs_1668696182826/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+beautifulsoup4==4.12.2
+blinker==1.4
+brotlipy==0.7.0
+cachetools==5.3.0
+certifi @ file:///croot/certifi_1683875369620/work/certifi
+cffi @ file:///croot/cffi_1670423208954/work
+chardet @ file:///tmp/build/80754af9/chardet_1607706746162/work
+charset-normalizer==3.1.0
+click @ file:///tmp/build/80754af9/click_1646038465422/work
+comm @ file:///croot/comm_1671231121260/work
+cryptography @ file:///croot/cryptography_1677533068310/work
+debugpy @ file:///tmp/build/80754af9/debugpy_1637091796427/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+dill==0.3.6
+executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
+filelock==3.12.0
+frozenlist @ file:///croot/frozenlist_1670004507010/work
+fsspec==2023.5.0
+google-auth==2.18.0
+google-auth-oauthlib==0.4.6
+grpcio==1.54.2
+hanlp==2.1.0b49
+hanlp-common==0.0.19
+hanlp-downloader==0.0.25
+hanlp-trie==0.0.5
+huggingface-hub==0.14.1
+idna @ file:///croot/idna_1666125576474/work
+importlib-metadata @ file:///croot/importlib-metadata_1678997070253/work
+ipykernel @ file:///croot/ipykernel_1671488378391/work
+ipython @ file:///croot/ipython_1680701871216/work
 ipywidgets==8.0.5
+jedi @ file:///tmp/build/80754af9/jedi_1644315233700/work
+joblib==1.2.0
+jupyter_client @ file:///croot/jupyter_client_1680171862562/work
+jupyter_core @ file:///croot/jupyter_core_1679906564508/work
+jupyterlab-widgets==3.0.7
+Markdown==3.4.3
+MarkupSafe==2.1.2
+matplotlib-inline @ file:///opt/conda/conda-bld/matplotlib-inline_1662014470464/work
+mkl-fft==1.3.6
+mkl-random @ file:///work/mkl/mkl_random_1682950433854/work
+mkl-service==2.4.0
+multidict @ file:///croot/multidict_1665674239670/work
+nest-asyncio @ file:///croot/nest-asyncio_1672387112409/work
+numpy @ file:///work/mkl/numpy_and_numpy_base_1682953417311/work
+oauthlib @ file:///croot/oauthlib_1679489621486/work
+OpenCC==1.1.6
+packaging @ file:///croot/packaging_1678965309396/work
 pandarallel==1.6.4
 pandas==1.5.3
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+phrasetree==0.0.8
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+platformdirs @ file:///opt/conda/conda-bld/platformdirs_1662711380096/work
+prompt-toolkit @ file:///croot/prompt-toolkit_1672387306916/work
+protobuf==3.20.3
+psutil @ file:///opt/conda/conda-bld/psutil_1656431268089/work
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+Pygments @ file:///croot/pygments_1683671804183/work
+PyJWT @ file:///opt/conda/conda-bld/pyjwt_1657544592787/work
+pynvml==11.5.0
+pyOpenSSL @ file:///croot/pyopenssl_1677607685877/work
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2023.3
+PyYAML==6.0
+pyzmq @ file:///croot/pyzmq_1682697643292/work
+regex==2023.5.5
+requests==2.30.0
+requests-oauthlib==1.3.1
+rsa==4.9
 scikit-learn==1.2.2
+scipy==1.10.1
+sentencepiece==0.1.99
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+soupsieve==2.4.1
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 tensorboard==2.11.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit @ file:///home/builder/tkoch/workspace/tensorflow/tensorboard-plugin-wit_1658918494740/work/tensorboard_plugin_wit-1.8.1-py3-none-any.whl
+termcolor==2.3.0
+threadpoolctl==3.1.0
+tokenizers==0.11.6
+toposort==1.5
 torch==1.13.1+cu116
+tornado @ file:///opt/conda/conda-bld/tornado_1662061693373/work
 tqdm==4.65.0
-opencc
-hanlp
+traitlets @ file:///croot/traitlets_1671143879854/work
 transformers==4.27.1
+typing_extensions @ file:///croot/typing_extensions_1681939499988/work
+urllib3 @ file:///croot/urllib3_1680254681959/work
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+Werkzeug==2.3.4
+widgetsnbextension==4.0.7
 wikipedia==1.4.0
+yarl @ file:///opt/conda/conda-bld/yarl_1661437085904/work
+zipp @ file:///croot/zipp_1672387121353/work
